@@ -8,10 +8,10 @@
 # Required dependencies 
 >
 # Kaggle Notebook
-> 
+> [link] (https://www.kaggle.com/code/yahayamkayode/fine-tuning-gemma2b-model-using-lora-and-keras)
 
 # Huggin Face Model
->
+> [Link] (https://huggingface.co/Justsp3cial/maize_model)
 
 # The CropXpert Chatbox
-> 
+> [Link] (https://huggingface.co/spaces/Justsp3cial/CropXpert)
