@@ -6,7 +6,5 @@ This is a fine-tuned model of Gemma 2B. The fine-tuned model was trained with ma
 
 # Project Details 
 - Programming Language: Python
-- Libraries Used: Gradio, pandas, numpy, among other relevant data processing and interface libraries.
-- Training and Data: The chatbot is powered by an example CSV file containing representative data and customized functions for answering questions.
-- User Interface: Built with Gradio, enabling easy and accessible user interaction.
-- Deployment: Compatible with execution in environments like Google Colab and other Python-based platforms.
+- Training and Data: The model was trained with with maize dataset
+- User Interface: Built with Gradio, providing easy access and seamless interaction.
