@@ -27,5 +27,5 @@ Gemma 2B en, you can read more [here](https://ai.google.dev/gemma/docs)
 # Model on Hugging Face
 > [Link](https://huggingface.co/Justsp3cial/maize_model)
 
-# The CropXpert Chatbox
+# The CropXpert Chatbot
 > [Link](https://huggingface.co/spaces/Justsp3cial/CropXpert)
