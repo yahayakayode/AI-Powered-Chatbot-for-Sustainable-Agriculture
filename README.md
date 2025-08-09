@@ -24,7 +24,7 @@ The chatbot addresses key agricultural challenges such as lack of timely advice,
 
 ## Example Usage
 
-## Recommendation for Maize varieties
+## Location-bases recommendation for Maize varieties
 
 <img width="628" height="277" alt="image" src="https://github.com/user-attachments/assets/28847d72-e56a-47ac-99e6-d3328a4e733b" />
 
