@@ -9,11 +9,11 @@ This is a fine-tuned model of Gemma 2B. The fine-tuned model was trained with ma
 # Usage Instructions
 You can clone this repository to Google Colab or your local machine.
 Then install necessary dependencies by running in the requirements.txt
-Finally, run the app.py script to launch the Chatbot interface to interact with the it.
+Finally, run the app.py script to launch the Chatbot interface to interact with it.
 
 # Chatbot Features
 The Chatbot is capable of providing best practices to carry out Maize production in Nigeria from site selection to storage 
-It is also capable of providing location-based recommendation 
+It is also capable of providing location-based recommendation. 
 
 # Required dependencies 
 pip install the requirements.txt and those in the notebook if you want to use the notebook file
