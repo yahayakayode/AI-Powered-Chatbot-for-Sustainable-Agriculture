@@ -1,8 +1,3 @@
-Alright — here’s your **rewritten README** with usage examples, multiple screenshots, and a cleaner structure so it’s portfolio-ready and selection-committee-friendly.
-
----
-
-```markdown
 # AI-Powered Conversational Chatbot for Sustainable Agriculture in Nigeria
 
 ![Chatbot Screenshot](https://github.com/user-attachments/assets/ccabd714-09f3-494d-bcc1-dfdd1f50a393)
@@ -30,43 +25,7 @@ The chatbot addresses key agricultural challenges such as lack of timely advice,
 ## Example Usage
 
 **Example 1 – Maize Site Selection**
-```
 
-User: Where is the best place to grow maize in Kaduna State?
-Bot: For Kaduna State, maize grows best in areas with loamy soil, annual rainfall of 800–1,200 mm, and temperatures between 18–27°C. Avoid waterlogged soils...
-
-```
-
-**Example 2 – Pest Control**
-```
-
-User: How do I prevent armyworm in my maize farm?
-Bot: Regularly inspect crops for early signs of damage, use pheromone traps, and apply bio-pesticides like Bacillus thuringiensis...
-
-```
-
-**Example 3 – Post-Harvest Storage**
-```
-
-User: How do I store maize to avoid mold?
-Bot: Dry grains to 13–14% moisture, store in airtight containers, and place sacks on pallets instead of directly on the floor...
-
-````
-
----
-
-## Screenshots
-
-**1. Welcome Screen**  
-![Welcome Screen](link_to_screenshot1)
-
-**2. Pest Control Query**  
-![Pest Control](link_to_screenshot2)
-
-**3. Location-Based Advice**  
-![Location Advice](link_to_screenshot3)
-
----
 
 ## Installation & Usage
 
