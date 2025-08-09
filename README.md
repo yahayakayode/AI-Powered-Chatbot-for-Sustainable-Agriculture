@@ -1,4 +1,4 @@
-## CropXpertBot - AI-Powered Conversational Chatbot for Sustainable Agriculture In Nigeria
+## AgroXpertBot - AI-Powered Conversational Chatbot for Sustainable Agriculture In Nigeria
 
 <img width="842" alt="Screenshot 2024-11-17 at 14 53 11" src="https://github.com/user-attachments/assets/ccabd714-09f3-494d-bcc1-dfdd1f50a393">
 
