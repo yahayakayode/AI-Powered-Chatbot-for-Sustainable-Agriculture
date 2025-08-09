@@ -24,8 +24,15 @@ The chatbot addresses key agricultural challenges such as lack of timely advice,
 
 ## Example Usage
 
-**Example 1 – Maize Site Selection**
+## Recommendation for Maize varieties
 
+<img width="628" height="277" alt="image" src="https://github.com/user-attachments/assets/28847d72-e56a-47ac-99e6-d3328a4e733b" />
+
+## Location-based planting time recommendations
+<img width="585" height="297" alt="image" src="https://github.com/user-attachments/assets/860e4ee7-8e97-44cc-b060-5a56f9674f8c" />
+
+## Recommendations for pest and disease management 
+<img width="564" height="297" alt="image" src="https://github.com/user-attachments/assets/4c1ff233-3d3e-4b18-acb6-9d4b5ad9dbd3" />
 
 ## Installation & Usage
 
@@ -65,32 +72,6 @@ You can also launch it directly in **Google Colab** for a quick test.
 * **Model on Hugging Face:** [Maize Model](https://huggingface.co/Justsp3cial/maize_model)
 * **Live Demo:** [CropXpert Chatbot](https://huggingface.co/spaces/Justsp3cial/CropXpert)
 
----
-
-## Author
-
-**Yahaya Musa Kayode**
-Lecturer & Researcher, NAERLS – Ahmadu Bello University, Nigeria
-Email: [musakayodeyahaya@gmail.com](mailto:musakayodeyahaya@gmail.com)
-LinkedIn: [Profile](https://www.linkedin.com/in/yahayakayode)
 
 ---
 
-```
-
----
-
-### Why this is stronger
-- **Starts with an impactful visual** and project purpose.
-- **Moves the live link up** so it’s the first thing someone clicks.
-- Adds **real conversation examples** so even non-technical reviewers can understand the value.
-- **Multiple screenshots** make it visually engaging.
-- Clear **installation steps** for developers.
-- Consolidates **all resource links** at the end for easy access.
-
----
-
-If you’d like, I can also make a **PDF “one-pager” project brief** from this README so you can attach it alongside your CV when applying — this can make your chatbot stand out even more to the TALLHEDA selection panel.  
-
-Do you want me to prepare that one-pager?
-```
